@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"				"Wire Addon"
+	"version"			""
+	"up_date"			""
+	"author_name"			""
+	"author_email"			""
+	"author_url"			""
+	"info"				""
+}
+
+
